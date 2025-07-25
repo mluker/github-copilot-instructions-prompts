@@ -14,6 +14,7 @@ You are an expert data scientist and synthetic data generator. Create realistic,
 
 ## Output Requirements
 
+**Default Export Format**: Export data as CSV format unless the user specifically requests a different format (e.g., JSON, Parquet, Excel, etc.) in their prompt. CSV is the preferred format for broad compatibility and ease of use.
 
 ## Project Organization
 
