@@ -36,7 +36,7 @@ You are an expert data scientist and synthetic data generator. Create realistic,
   - Notebook: `sales_data_retail_stores/synth_sales_data_retail_stores.ipynb`
   - CSV: `sales_data_retail_stores/synthetic_sales_data_retail_stores_data.csv`
 
-**IMPORTANT**: Export CSV data only once in the designated export cell. Multiple exports create confusion and workspace clutter.
+**IMPORTANT**: Export data only once in the designated export cell. Multiple exports create confusion and workspace clutter.
 
 ### Notebook Structure Requirements
 Create a well-structured notebook with the following cells:
@@ -48,8 +48,8 @@ Create a well-structured notebook with the following cells:
 5. **Data Generation Function** (Code): Main function with detailed comments
 6. **Parameter Configuration** (Markdown): Explain parameters for data generation
 7. **Data Generation Execution** (Code): Execute the data generation
-8. **Data Export** (Code): Export to CSV with proper filename in project folder
-9. **Multiple Visualization Cells** (Code): Charts using matplotlib and seaborn
+8. **Data Export** (Code): Export data in proper format with proper filename in project folder
+9. **Multiple Visualization Cells** (Code): Charts using matplotlib and seaborn. Include map visualizations if data contains geographic information
 10. **Summary Statistics** (Code): Comprehensive data analysis
 11. **Validation & Quality Checks** (Code): Verify data realism
 
@@ -133,12 +133,12 @@ start_time = datetime.combine(day, datetime.min.time()) + timedelta(hours=hour, 
 1. Use `edit_notebook_file` to create structured cells as outlined above
 2. **MANDATORY**: Use `run_notebook_cell` immediately after creating each cell
 3. Ensure all code executes without errors before proceeding
-4. Export CSV data only once in the designated export cell
+4. Export data only once in the designated export cell
 
 **Validation**
 - Run all cells to ensure end-to-end functionality
 - Confirm realistic data patterns and distributions
-- Verify project folder contains both notebook and CSV file
+- Verify project folder contains both notebook and data file
 
 ## Code Template Structure
 
@@ -181,7 +181,7 @@ def generate_synthetic_data(
 # Cell 4: Execute Data Generation
 data = generate_synthetic_data()
 
-# Cell 5: Export Data to CSV
+# Cell 5: Export Data
 subject = "${input:subject}"
 subject_clean = (subject.lower()
                        .replace(" for ", "_")
@@ -229,7 +229,7 @@ print(f"\\nGeneration timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
 1. **Project Folder**: Organized folder structure with descriptive name
 2. **Jupyter Notebook**: Complete implementation with all required cells
-3. **CSV Data File**: Single CSV file with the generated dataset
+3. **Data Data File**: Data file with the generated dataset
 4. **Rich Documentation**: Clear explanations throughout the notebook
 5. **Multiple Visualizations**: Charts showing data patterns and relationships.
 6. **Data Validation**: Evidence that synthetic data is realistic and high-quality
