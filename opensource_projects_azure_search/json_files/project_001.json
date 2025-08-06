@@ -1,0 +1,41 @@
+{
+  "id": "project_001",
+  "name": "flexible-parser-javascript",
+  "full_name": "lynchgeorge/flexible-parser-javascript",
+  "description": "Here writer policy news range successful simply. Start source husband at tree.",
+  "url": "https://github.com/lynchgeorge/flexible-parser-javascript",
+  "homepage": "https://king.com/",
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Kotlin"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "data-science",
+    "optimization",
+    "monitoring"
+  ],
+  "framework": "React",
+  "stars_count": 28,
+  "forks_count": 2,
+  "watchers_count": 9,
+  "contributors_count": 6,
+  "open_issues_count": 13,
+  "closed_issues_count": 42,
+  "created_date": "2024-03-27",
+  "updated_date": "2025-06-08",
+  "last_commit_date": "2025-07-19",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 44.1,
+  "search_tags": "flexible-parser-javascript JavaScript data-science optimization monitoring Kotlin",
+  "category": "UI Library",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.874834",
+  "content_hash": "hash_1_6635"
+}

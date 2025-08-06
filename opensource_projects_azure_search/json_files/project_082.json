@@ -1,0 +1,40 @@
+{
+  "id": "project_082",
+  "name": "everylib",
+  "full_name": "richardrodriguez/everylib",
+  "description": "Water sort what then spend offer. Whom none show serious which learn.",
+  "url": "https://github.com/richardrodriguez/everylib",
+  "homepage": null,
+  "language": "HTML",
+  "languages": [
+    "HTML",
+    "Swift"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "authorization",
+    "machine-learning"
+  ],
+  "framework": null,
+  "stars_count": 53,
+  "forks_count": 4,
+  "watchers_count": 23,
+  "contributors_count": 13,
+  "open_issues_count": 15,
+  "closed_issues_count": 39,
+  "created_date": "2020-12-14",
+  "updated_date": "2025-06-23",
+  "last_commit_date": "2025-08-03",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 58.3,
+  "search_tags": "everylib HTML authorization machine-learning Swift",
+  "category": "Data Processing",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.982241",
+  "content_hash": "hash_82_9624"
+}

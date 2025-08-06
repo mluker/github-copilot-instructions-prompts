@@ -1,0 +1,40 @@
+{
+  "id": "project_034",
+  "name": "efficient-library",
+  "full_name": "william88/efficient-library",
+  "description": "Little admit former body indicate. Someone rise read ago listen. Officer return on color pick people subject challenge.\nOccur red course. Finish charge real improve simple turn.",
+  "url": "https://github.com/william88/efficient-library",
+  "homepage": null,
+  "language": "TypeScript",
+  "languages": [
+    "TypeScript"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "orm",
+    "security",
+    "data-science"
+  ],
+  "framework": "NestJS",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 0,
+  "created_date": "2023-01-15",
+  "updated_date": "2025-07-14",
+  "last_commit_date": "2025-08-05",
+  "first_release_date": "2023-06-06",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 48.4,
+  "search_tags": "efficient-library TypeScript orm security data-science",
+  "category": "Web Framework",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.929799",
+  "content_hash": "hash_34_6111"
+}

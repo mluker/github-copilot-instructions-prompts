@@ -1,0 +1,40 @@
+{
+  "id": "project_076",
+  "name": "flexible-library",
+  "full_name": "gwhitehead/flexible-library",
+  "description": "Pattern education boy provide note. Surface usually yes.\nAvailable public economy culture oil week ground. Beyond people too fish late. Process really charge note space when collection finish.",
+  "url": "https://github.com/gwhitehead/flexible-library",
+  "homepage": null,
+  "language": "Rust",
+  "languages": [
+    "Rust"
+  ],
+  "license": "ISC",
+  "topics": [
+    "kubernetes",
+    "authorization",
+    "performance"
+  ],
+  "framework": "Rocket",
+  "stars_count": 55,
+  "forks_count": 13,
+  "watchers_count": 8,
+  "contributors_count": 7,
+  "open_issues_count": 3,
+  "closed_issues_count": 18,
+  "created_date": "2021-04-21",
+  "updated_date": "2025-06-05",
+  "last_commit_date": "2025-07-27",
+  "first_release_date": "2021-11-16",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.8,
+  "search_tags": "flexible-library Rust kubernetes authorization performance",
+  "category": "Monitoring",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.974401",
+  "content_hash": "hash_76_6928"
+}

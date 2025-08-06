@@ -1,0 +1,41 @@
+{
+  "id": "project_054",
+  "name": "awesome-tool",
+  "full_name": "tranalan/awesome-tool",
+  "description": "Science drug happy will young. Run national somebody character usually. Do get style.\nAbility price support road billion morning.",
+  "url": "https://github.com/tranalan/awesome-tool",
+  "homepage": "https://www.bradley.com/",
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Java"
+  ],
+  "license": "GPL-2.0",
+  "topics": [
+    "mobile",
+    "async",
+    "azure"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2021-08-05",
+  "updated_date": "2025-05-19",
+  "last_commit_date": "2025-05-18",
+  "first_release_date": "2021-11-01",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 0,
+  "activity_score": 12.4,
+  "search_tags": "awesome-tool JavaScript mobile async azure Java",
+  "category": "Testing Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.945752",
+  "content_hash": "hash_54_7512"
+}

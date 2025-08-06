@@ -1,0 +1,43 @@
+{
+  "id": "project_016",
+  "name": "treatcli",
+  "full_name": "hillkristy/treatcli",
+  "description": "Star executive fear only your. Tend land machine forward several help usually. Wonder draw him task improve.",
+  "url": "https://github.com/hillkristy/treatcli",
+  "homepage": "http://booker.com/",
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Ruby",
+    "CSS"
+  ],
+  "license": "GPL-3.0",
+  "topics": [
+    "framework",
+    "web",
+    "performance",
+    "kubernetes"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2022-08-31",
+  "updated_date": "2025-07-31",
+  "last_commit_date": "2025-07-28",
+  "first_release_date": "2023-02-10",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 70.0,
+  "activity_score": 47.4,
+  "search_tags": "treatcli JavaScript framework web performance kubernetes Ruby CSS",
+  "category": "API Tools",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.914407",
+  "content_hash": "hash_16_8491"
+}

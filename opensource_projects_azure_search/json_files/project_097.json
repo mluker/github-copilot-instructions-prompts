@@ -1,0 +1,41 @@
+{
+  "id": "project_097",
+  "name": "robust-library-java",
+  "full_name": "katherinejones/robust-library-java",
+  "description": "Majority foot leader east if among save herself. Hour voice occur movie political region. Minute later still.\nMillion how same newspaper might.",
+  "url": "https://github.com/katherinejones/robust-library-java",
+  "homepage": null,
+  "language": "Java",
+  "languages": [
+    "Java"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "async",
+    "game-development",
+    "automation",
+    "cloud"
+  ],
+  "framework": "Maven",
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2025-03-23",
+  "updated_date": "2025-06-23",
+  "last_commit_date": "2025-08-03",
+  "first_release_date": "2025-08-05",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 62.5,
+  "activity_score": 52.2,
+  "search_tags": "robust-library-java Java async game-development automation cloud",
+  "category": "UI Library",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.026388",
+  "content_hash": "hash_97_2063"
+}

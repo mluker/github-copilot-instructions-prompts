@@ -1,0 +1,43 @@
+{
+  "id": "project_058",
+  "name": "lightweight-parser-php",
+  "full_name": "lbanks/lightweight-parser-php",
+  "description": "Skin development open compare fill read camera rock. Hot yes whole allow own TV whose. Policy bit many former back.",
+  "url": "https://github.com/lbanks/lightweight-parser-php",
+  "homepage": null,
+  "language": "PHP",
+  "languages": [
+    "PHP",
+    "C#",
+    "TypeScript"
+  ],
+  "license": "GPL-2.0",
+  "topics": [
+    "orm",
+    "microservices",
+    "devops",
+    "cryptocurrency"
+  ],
+  "framework": "CodeIgniter",
+  "stars_count": 119,
+  "forks_count": 13,
+  "watchers_count": 42,
+  "contributors_count": 10,
+  "open_issues_count": 24,
+  "closed_issues_count": 164,
+  "created_date": "2024-02-16",
+  "updated_date": "2025-06-24",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 83.8,
+  "activity_score": 57.8,
+  "search_tags": "lightweight-parser-php PHP orm microservices devops cryptocurrency C# TypeScript",
+  "category": "Web Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.948128",
+  "content_hash": "hash_58_7484"
+}

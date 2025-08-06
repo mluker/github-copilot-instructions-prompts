@@ -1,0 +1,42 @@
+{
+  "id": "project_063",
+  "name": "simple-tool-javascript",
+  "full_name": "max41/simple-tool-javascript",
+  "description": "Clear occur who. Positive question especially important after. Listen car community.\nEducation source figure whom poor.",
+  "url": "https://github.com/max41/simple-tool-javascript",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript"
+  ],
+  "license": "GPL-3.0",
+  "topics": [
+    "cloud",
+    "desktop",
+    "mobile",
+    "database",
+    "gcp"
+  ],
+  "framework": "Express",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2022-01-06",
+  "updated_date": "2025-08-03",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": "2022-11-27",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 39.6,
+  "search_tags": "simple-tool-javascript JavaScript cloud desktop mobile database gcp",
+  "category": "Cloud Native",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.955928",
+  "content_hash": "hash_63_2622"
+}

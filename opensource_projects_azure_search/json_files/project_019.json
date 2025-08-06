@@ -1,0 +1,41 @@
+{
+  "id": "project_019",
+  "name": "modern-server",
+  "full_name": "emily49/modern-server",
+  "description": "Push likely people wall. Trip determine as statement travel few. Bring animal also you break doctor.",
+  "url": "https://github.com/emily49/modern-server",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Swift",
+    "CSS"
+  ],
+  "license": "GPL-2.0",
+  "topics": [
+    "library",
+    "web"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 7,
+  "forks_count": 1,
+  "watchers_count": 2,
+  "contributors_count": 3,
+  "open_issues_count": 2,
+  "closed_issues_count": 7,
+  "created_date": "2022-06-30",
+  "updated_date": "2025-07-28",
+  "last_commit_date": "2025-07-29",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 50.0,
+  "activity_score": 51.6,
+  "search_tags": "modern-server JavaScript library web Swift CSS",
+  "category": "Security Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.916307",
+  "content_hash": "hash_19_8239"
+}

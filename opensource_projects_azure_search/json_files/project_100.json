@@ -1,0 +1,40 @@
+{
+  "id": "project_100",
+  "name": "robust-generator",
+  "full_name": "ronald54/robust-generator",
+  "description": "Until pass market role marriage space. Discussion fact cover brother let someone scene debate. Yourself increase free night point action cut example. Film media food accept.",
+  "url": "https://github.com/ronald54/robust-generator",
+  "homepage": "https://www.ray.com/",
+  "language": "Python",
+  "languages": [
+    "Python"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "machine-learning",
+    "optimization",
+    "aws"
+  ],
+  "framework": "Flask",
+  "stars_count": 16,
+  "forks_count": 3,
+  "watchers_count": 4,
+  "contributors_count": 3,
+  "open_issues_count": 8,
+  "closed_issues_count": 19,
+  "created_date": "2023-03-21",
+  "updated_date": "2025-08-03",
+  "last_commit_date": "2025-07-18",
+  "first_release_date": "2023-10-19",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 59.9,
+  "activity_score": 45.4,
+  "search_tags": "robust-generator Python machine-learning optimization aws",
+  "category": "UI Library",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.028835",
+  "content_hash": "hash_100_9501"
+}

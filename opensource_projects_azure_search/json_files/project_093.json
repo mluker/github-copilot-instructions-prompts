@@ -1,0 +1,40 @@
+{
+  "id": "project_093",
+  "name": "efficient-kit-shell",
+  "full_name": "floresannette/efficient-kit-shell",
+  "description": "Anything rule hotel knowledge. Offer bed it skill challenge from live seat.\nEnergy huge its recently seven lose. Maintain present cultural pattern save. Drug entire involve range office.",
+  "url": "https://github.com/floresannette/efficient-kit-shell",
+  "homepage": null,
+  "language": "Shell",
+  "languages": [
+    "Shell"
+  ],
+  "license": "MPL-2.0",
+  "topics": [
+    "library",
+    "monitoring",
+    "testing"
+  ],
+  "framework": null,
+  "stars_count": 48,
+  "forks_count": 12,
+  "watchers_count": 13,
+  "contributors_count": 8,
+  "open_issues_count": 3,
+  "closed_issues_count": 13,
+  "created_date": "2022-03-23",
+  "updated_date": "2025-07-06",
+  "last_commit_date": "2025-07-14",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 41.9,
+  "search_tags": "efficient-kit-shell Shell library monitoring testing",
+  "category": "Testing Framework",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.021410",
+  "content_hash": "hash_93_4060"
+}

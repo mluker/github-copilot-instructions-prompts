@@ -1,0 +1,42 @@
+{
+  "id": "project_087",
+  "name": "ajs",
+  "full_name": "mauriceharrison/ajs",
+  "description": "Federal she something others someone nature country. Join economic resource position stock determine bad. Dream share travel space range expect sea speak.",
+  "url": "https://github.com/mauriceharrison/ajs",
+  "homepage": "https://www.davis.info/",
+  "language": "Dart",
+  "languages": [
+    "Dart",
+    "Swift"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "authorization",
+    "aws",
+    "security",
+    "database"
+  ],
+  "framework": null,
+  "stars_count": 3,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 1,
+  "closed_issues_count": 3,
+  "created_date": "2020-08-19",
+  "updated_date": "2025-07-16",
+  "last_commit_date": "2025-07-29",
+  "first_release_date": "2021-02-15",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 66.9,
+  "activity_score": 49.2,
+  "search_tags": "ajs Dart authorization aws security database Swift",
+  "category": "Data Processing",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.007698",
+  "content_hash": "hash_87_3254"
+}

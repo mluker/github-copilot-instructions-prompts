@@ -1,0 +1,42 @@
+{
+  "id": "project_088",
+  "name": "flexible-builder",
+  "full_name": "matthewcollins/flexible-builder",
+  "description": "Recent all bag seek certainly entire hotel. Like court success stage stock business should. His window east yes current.",
+  "url": "https://github.com/matthewcollins/flexible-builder",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Go"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "serverless",
+    "async",
+    "api",
+    "web"
+  ],
+  "framework": "Express",
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 3,
+  "open_issues_count": 0,
+  "closed_issues_count": 3,
+  "created_date": "2024-08-02",
+  "updated_date": "2025-07-26",
+  "last_commit_date": "2025-07-30",
+  "first_release_date": "2025-05-18",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 0,
+  "activity_score": 49.0,
+  "search_tags": "flexible-builder JavaScript serverless async api web Go",
+  "category": "API Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.011519",
+  "content_hash": "hash_88_4893"
+}

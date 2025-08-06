@@ -1,0 +1,43 @@
+{
+  "id": "project_068",
+  "name": "fillapi",
+  "full_name": "laurie56/fillapi",
+  "description": "Act catch positive. Group just perform there behavior spring.\nHusband while even history. Son power someone both receive around wall.",
+  "url": "https://github.com/laurie56/fillapi",
+  "homepage": null,
+  "language": "C#",
+  "languages": [
+    "C#",
+    "Go"
+  ],
+  "license": "MPL-2.0",
+  "topics": [
+    "cloud",
+    "async",
+    "tool",
+    "web",
+    "ci-cd"
+  ],
+  "framework": "Blazor",
+  "stars_count": 4,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 3,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2024-04-13",
+  "updated_date": "2025-07-03",
+  "last_commit_date": "2025-08-03",
+  "first_release_date": "2024-10-10",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 69.3,
+  "activity_score": 54.0,
+  "search_tags": "fillapi C# cloud async tool web ci-cd Go",
+  "category": "API Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.959902",
+  "content_hash": "hash_68_8433"
+}

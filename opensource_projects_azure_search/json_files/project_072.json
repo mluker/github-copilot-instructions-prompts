@@ -1,0 +1,43 @@
+{
+  "id": "project_072",
+  "name": "haircli",
+  "full_name": "tinasantos/haircli",
+  "description": "Reason follow break good lose number project. Purpose throw move there institution actually. Agent certainly prove customer.\nRaise chair artist six daughter. Allow sport bill test science ten score.",
+  "url": "https://github.com/tinasantos/haircli",
+  "homepage": "https://www.brandt.com/",
+  "language": "Python",
+  "languages": [
+    "Python",
+    "Go"
+  ],
+  "license": "MIT",
+  "topics": [
+    "docker",
+    "cli",
+    "testing",
+    "blockchain",
+    "devops"
+  ],
+  "framework": "PyTorch",
+  "stars_count": 12,
+  "forks_count": 2,
+  "watchers_count": 4,
+  "contributors_count": 5,
+  "open_issues_count": 2,
+  "closed_issues_count": 7,
+  "created_date": "2025-05-19",
+  "updated_date": "2025-07-09",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 92.2,
+  "activity_score": 50.1,
+  "search_tags": "haircli Python docker cli testing blockchain devops Go",
+  "category": "DevOps Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.970617",
+  "content_hash": "hash_72_9691"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "project_028",
+  "name": "flexible-generator",
+  "full_name": "scottmary/flexible-generator",
+  "description": "Institution simply down business draw police performance. Book toward others administration. Offer responsibility fact ability good number cost. Model guess well name.",
+  "url": "https://github.com/scottmary/flexible-generator",
+  "homepage": null,
+  "language": "HTML",
+  "languages": [
+    "HTML"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "ci-cd",
+    "async",
+    "aws",
+    "optimization",
+    "docker"
+  ],
+  "framework": null,
+  "stars_count": 8,
+  "forks_count": 1,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2023-05-03",
+  "updated_date": "2025-08-01",
+  "last_commit_date": "2025-08-03",
+  "first_release_date": "2024-01-02",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.0,
+  "search_tags": "flexible-generator HTML ci-cd async aws optimization docker",
+  "category": "Blockchain",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.924272",
+  "content_hash": "hash_28_9540"
+}

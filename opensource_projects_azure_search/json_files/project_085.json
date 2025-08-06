@@ -1,0 +1,41 @@
+{
+  "id": "project_085",
+  "name": "flexible-kit",
+  "full_name": "andrew15/flexible-kit",
+  "description": "Officer practice Mrs without expect. Pull maintain say threat high expert. What than political up instead partner if trade. Class direction first fact.",
+  "url": "https://github.com/andrew15/flexible-kit",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "HTML"
+  ],
+  "license": "ISC",
+  "topics": [
+    "async",
+    "microservices",
+    "automation"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 48,
+  "forks_count": 5,
+  "watchers_count": 7,
+  "contributors_count": 7,
+  "open_issues_count": 20,
+  "closed_issues_count": 56,
+  "created_date": "2024-12-04",
+  "updated_date": "2025-07-02",
+  "last_commit_date": "2025-08-02",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 57.1,
+  "search_tags": "flexible-kit JavaScript async microservices automation HTML",
+  "category": "Data Processing",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.005094",
+  "content_hash": "hash_85_5096"
+}

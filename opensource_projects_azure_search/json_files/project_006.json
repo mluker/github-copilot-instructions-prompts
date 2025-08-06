@@ -1,0 +1,42 @@
+{
+  "id": "project_006",
+  "name": "powerful-service",
+  "full_name": "cookdavid/powerful-service",
+  "description": "Necessary into act away third tough. Along hard need involve among half value.\nDecide economic bill sister this image.",
+  "url": "https://github.com/cookdavid/powerful-service",
+  "homepage": "https://hoover-savage.com/",
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "R"
+  ],
+  "license": "GPL-3.0",
+  "topics": [
+    "orm",
+    "docker",
+    "api",
+    "desktop"
+  ],
+  "framework": "React",
+  "stars_count": 35,
+  "forks_count": 4,
+  "watchers_count": 10,
+  "contributors_count": 9,
+  "open_issues_count": 10,
+  "closed_issues_count": 17,
+  "created_date": "2025-06-28",
+  "updated_date": "2025-04-29",
+  "last_commit_date": "2025-08-01",
+  "first_release_date": "2025-08-05",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 73.6,
+  "activity_score": 59.3,
+  "search_tags": "powerful-service JavaScript orm docker api desktop R",
+  "category": "Monitoring",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.879723",
+  "content_hash": "hash_6_1053"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "project_091",
+  "name": "smart-generator",
+  "full_name": "amandalopez/smart-generator",
+  "description": "Personal condition see indeed black police group. Reflect interview bit society nearly measure price.",
+  "url": "https://github.com/amandalopez/smart-generator",
+  "homepage": "https://www.joyce-lewis.com/",
+  "language": "C++",
+  "languages": [
+    "C++",
+    "JavaScript",
+    "Java",
+    "CSS"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "monitoring",
+    "machine-learning"
+  ],
+  "framework": null,
+  "stars_count": 4,
+  "forks_count": 1,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2023-03-22",
+  "updated_date": "2025-06-28",
+  "last_commit_date": "2025-07-11",
+  "first_release_date": "2023-07-01",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 31.6,
+  "search_tags": "smart-generator C++ monitoring machine-learning JavaScript Java CSS",
+  "category": "CLI Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.019998",
+  "content_hash": "hash_91_3986"
+}

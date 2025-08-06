@@ -1,0 +1,43 @@
+{
+  "id": "project_079",
+  "name": "modern-client",
+  "full_name": "deborahjenkins/modern-client",
+  "description": "Or care mention three chair coach two. When out nor affect rest product exist.\nLast yeah test color store. Central old should perhaps member cold rate two.",
+  "url": "https://github.com/deborahjenkins/modern-client",
+  "homepage": null,
+  "language": "C++",
+  "languages": [
+    "C++",
+    "C#"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "automation",
+    "tool",
+    "web",
+    "aws",
+    "authentication"
+  ],
+  "framework": null,
+  "stars_count": 5,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 5,
+  "open_issues_count": 0,
+  "closed_issues_count": 3,
+  "created_date": "2021-10-22",
+  "updated_date": "2025-06-19",
+  "last_commit_date": "2025-06-27",
+  "first_release_date": "2022-02-07",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 21.0,
+  "search_tags": "modern-client C++ automation tool web aws authentication C#",
+  "category": "Game Development",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.976961",
+  "content_hash": "hash_79_6267"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "project_005",
+  "name": "smart-server",
+  "full_name": "wstewart/smart-server",
+  "description": "Perform none beyond Mrs media car give.\nHard citizen street region particularly. Account stage federal professional voice care break.",
+  "url": "https://github.com/wstewart/smart-server",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Swift"
+  ],
+  "license": "GPL-3.0",
+  "topics": [
+    "optimization",
+    "authorization"
+  ],
+  "framework": "React",
+  "stars_count": 131,
+  "forks_count": 27,
+  "watchers_count": 58,
+  "contributors_count": 14,
+  "open_issues_count": 21,
+  "closed_issues_count": 38,
+  "created_date": "2025-04-08",
+  "updated_date": "2025-07-13",
+  "last_commit_date": "2025-07-12",
+  "first_release_date": "2025-08-05",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 0,
+  "activity_score": 47.8,
+  "search_tags": "smart-server JavaScript optimization authorization Swift",
+  "category": "Security Tools",
+  "maturity_level": "beta",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.878859",
+  "content_hash": "hash_5_7916"
+}

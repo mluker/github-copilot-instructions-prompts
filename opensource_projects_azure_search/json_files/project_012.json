@@ -1,0 +1,41 @@
+{
+  "id": "project_012",
+  "name": "smart-platform",
+  "full_name": "angela83/smart-platform",
+  "description": "New drive live Republican large admit family. Reality fill ok list most international. Former reflect even edge building court build.",
+  "url": "https://github.com/angela83/smart-platform",
+  "homepage": null,
+  "language": "C++",
+  "languages": [
+    "C++",
+    "Java"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "cryptocurrency",
+    "gcp",
+    "async"
+  ],
+  "framework": null,
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2021-01-07",
+  "updated_date": "2025-06-26",
+  "last_commit_date": "2025-07-19",
+  "first_release_date": "2021-09-29",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 36.2,
+  "search_tags": "smart-platform C++ cryptocurrency gcp async Java",
+  "category": "Monitoring",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.908636",
+  "content_hash": "hash_12_2604"
+}

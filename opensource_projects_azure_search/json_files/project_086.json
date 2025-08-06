@@ -1,0 +1,41 @@
+{
+  "id": "project_086",
+  "name": "flexible-platform",
+  "full_name": "clarkrandy/flexible-platform",
+  "description": "Approach side model you billion peace base. Finally easy exist phone capital stuff. Along ground trip.",
+  "url": "https://github.com/clarkrandy/flexible-platform",
+  "homepage": null,
+  "language": "Java",
+  "languages": [
+    "Java",
+    "Ruby",
+    "Swift"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "azure",
+    "desktop"
+  ],
+  "framework": "Apache Spark",
+  "stars_count": 9,
+  "forks_count": 1,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 1,
+  "closed_issues_count": 2,
+  "created_date": "2021-01-25",
+  "updated_date": "2025-07-28",
+  "last_commit_date": "2025-07-21",
+  "first_release_date": "2021-11-22",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 0,
+  "activity_score": 46.0,
+  "search_tags": "flexible-platform Java azure desktop Ruby Swift",
+  "category": "IoT",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.006670",
+  "content_hash": "hash_86_8391"
+}

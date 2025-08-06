@@ -1,0 +1,40 @@
+{
+  "id": "project_009",
+  "name": "robust-tool-kotlin",
+  "full_name": "bryantlaurie/robust-tool-kotlin",
+  "description": "Fish sense kind spring throughout interview trade knowledge. Season listen else easy. She miss phone ever back.\nEven floor music catch discuss. Relationship ask imagine my.",
+  "url": "https://github.com/bryantlaurie/robust-tool-kotlin",
+  "homepage": null,
+  "language": "Kotlin",
+  "languages": [
+    "Kotlin"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "optimization",
+    "game-development",
+    "gcp"
+  ],
+  "framework": null,
+  "stars_count": 12,
+  "forks_count": 1,
+  "watchers_count": 4,
+  "contributors_count": 8,
+  "open_issues_count": 7,
+  "closed_issues_count": 14,
+  "created_date": "2023-12-05",
+  "updated_date": "2025-07-06",
+  "last_commit_date": "2025-08-04",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 54.1,
+  "search_tags": "robust-tool-kotlin Kotlin optimization game-development gcp",
+  "category": "Monitoring",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.888502",
+  "content_hash": "hash_9_9479"
+}

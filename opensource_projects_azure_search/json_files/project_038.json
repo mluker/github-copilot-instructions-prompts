@@ -1,0 +1,41 @@
+{
+  "id": "project_038",
+  "name": "modern-platform-javascript",
+  "full_name": "jelliott/modern-platform-javascript",
+  "description": "How staff second. Authority interest red must art thus worry line.\nConference career political role white hear. Large true help bag who themselves.",
+  "url": "https://github.com/jelliott/modern-platform-javascript",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Ruby"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "testing",
+    "docker",
+    "api"
+  ],
+  "framework": "Express",
+  "stars_count": 24,
+  "forks_count": 2,
+  "watchers_count": 4,
+  "contributors_count": 8,
+  "open_issues_count": 10,
+  "closed_issues_count": 25,
+  "created_date": "2022-11-26",
+  "updated_date": "2025-07-01",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": "2023-03-20",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 59.5,
+  "activity_score": 52.4,
+  "search_tags": "modern-platform-javascript JavaScript testing docker api Ruby",
+  "category": "CLI Tools",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.932532",
+  "content_hash": "hash_38_8342"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "project_056",
+  "name": "throwjs",
+  "full_name": "david70/throwjs",
+  "description": "Start house ahead raise common Democrat. Every land chance pass. Early far include nearly article evidence case current.",
+  "url": "https://github.com/david70/throwjs",
+  "homepage": "https://www.moreno-wang.com/",
+  "language": "TypeScript",
+  "languages": [
+    "TypeScript",
+    "PHP",
+    "CSS"
+  ],
+  "license": "Unlicense",
+  "topics": [
+    "devops",
+    "cli",
+    "framework"
+  ],
+  "framework": "Next.js",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2021-06-06",
+  "updated_date": "2025-07-10",
+  "last_commit_date": "2025-07-10",
+  "first_release_date": "2021-10-30",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 27.6,
+  "search_tags": "throwjs TypeScript devops cli framework PHP CSS",
+  "category": "Cloud Native",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.946833",
+  "content_hash": "hash_56_3950"
+}

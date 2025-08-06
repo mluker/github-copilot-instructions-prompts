@@ -1,0 +1,41 @@
+{
+  "id": "project_098",
+  "name": "modern-engine",
+  "full_name": "bmorris/modern-engine",
+  "description": "Think bed food possible represent. Responsibility but box last. Be religious risk window partner civil. Herself should treatment not process change than.",
+  "url": "https://github.com/bmorris/modern-engine",
+  "homepage": null,
+  "language": "Python",
+  "languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "license": "MIT",
+  "topics": [
+    "blockchain",
+    "security",
+    "aws"
+  ],
+  "framework": "Flask",
+  "stars_count": 20,
+  "forks_count": 2,
+  "watchers_count": 8,
+  "contributors_count": 6,
+  "open_issues_count": 3,
+  "closed_issues_count": 28,
+  "created_date": "2021-06-26",
+  "updated_date": "2025-07-16",
+  "last_commit_date": "2025-08-05",
+  "first_release_date": "2021-08-15",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 56.6,
+  "search_tags": "modern-engine Python blockchain security aws TypeScript",
+  "category": "UI Library",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.027000",
+  "content_hash": "hash_98_7044"
+}

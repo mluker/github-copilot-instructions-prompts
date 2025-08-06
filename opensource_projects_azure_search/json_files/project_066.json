@@ -1,0 +1,42 @@
+{
+  "id": "project_066",
+  "name": "fast-tool",
+  "full_name": "epowell/fast-tool",
+  "description": "Current health add focus street course quality.\nDifficult theory fine bill me. Cold statement fear fact road. Model its rather card you majority seek close. Affect difference world deep against mean.",
+  "url": "https://github.com/epowell/fast-tool",
+  "homepage": "https://www.neal.com/",
+  "language": "Java",
+  "languages": [
+    "Java",
+    "Rust"
+  ],
+  "license": "MIT",
+  "topics": [
+    "desktop",
+    "cli",
+    "machine-learning",
+    "api"
+  ],
+  "framework": "Spring Boot",
+  "stars_count": 5,
+  "forks_count": 1,
+  "watchers_count": 1,
+  "contributors_count": 3,
+  "open_issues_count": 1,
+  "closed_issues_count": 6,
+  "created_date": "2022-07-04",
+  "updated_date": "2025-06-04",
+  "last_commit_date": "2025-07-02",
+  "first_release_date": "2022-12-22",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 25.0,
+  "search_tags": "fast-tool Java desktop cli machine-learning api Rust",
+  "category": "Data Processing",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.958147",
+  "content_hash": "hash_66_7897"
+}

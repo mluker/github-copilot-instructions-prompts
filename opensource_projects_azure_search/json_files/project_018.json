@@ -1,0 +1,43 @@
+{
+  "id": "project_018",
+  "name": "robust-builder",
+  "full_name": "karmstrong/robust-builder",
+  "description": "Within probably ever. Ten sing wind treat seat strategy total.\nSoon despite couple economy sense should race carry. Tough position final kid.",
+  "url": "https://github.com/karmstrong/robust-builder",
+  "homepage": "https://www.smith-herrera.info/",
+  "language": "Python",
+  "languages": [
+    "Python"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "azure",
+    "api",
+    "devops",
+    "mobile",
+    "machine-learning",
+    "orm"
+  ],
+  "framework": "FastAPI",
+  "stars_count": 15,
+  "forks_count": 3,
+  "watchers_count": 3,
+  "contributors_count": 4,
+  "open_issues_count": 4,
+  "closed_issues_count": 11,
+  "created_date": "2022-01-26",
+  "updated_date": "2025-07-24",
+  "last_commit_date": "2025-06-25",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 22.8,
+  "search_tags": "robust-builder Python azure api devops mobile machine-learning orm",
+  "category": "Testing Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.915741",
+  "content_hash": "hash_18_4335"
+}

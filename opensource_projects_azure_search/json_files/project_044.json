@@ -1,0 +1,40 @@
+{
+  "id": "project_044",
+  "name": "causepy",
+  "full_name": "lopezshane/causepy",
+  "description": "Ago government behavior our. Tell activity including single right nice. Occur college herself catch feeling.",
+  "url": "https://github.com/lopezshane/causepy",
+  "homepage": null,
+  "language": "C",
+  "languages": [
+    "C"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "orm",
+    "web",
+    "data-science"
+  ],
+  "framework": null,
+  "stars_count": 102,
+  "forks_count": 15,
+  "watchers_count": 37,
+  "contributors_count": 6,
+  "open_issues_count": 24,
+  "closed_issues_count": 43,
+  "created_date": "2023-05-13",
+  "updated_date": "2025-08-05",
+  "last_commit_date": "2025-08-04",
+  "first_release_date": "2023-08-20",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 34.0,
+  "activity_score": 65.3,
+  "search_tags": "causepy C orm web data-science",
+  "category": "API Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.937607",
+  "content_hash": "hash_44_1534"
+}

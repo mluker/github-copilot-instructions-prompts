@@ -1,0 +1,41 @@
+{
+  "id": "project_048",
+  "name": "thoughapi",
+  "full_name": "fburns/thoughapi",
+  "description": "Allow different eye sit not. Near both box simple statement happen state.\nNational wrong bill stop seem fear.\nEnjoy television beautiful tend bring speech decide.",
+  "url": "https://github.com/fburns/thoughapi",
+  "homepage": "https://www.cline.com/",
+  "language": "C#",
+  "languages": [
+    "C#",
+    "Python",
+    "Rust"
+  ],
+  "license": "MPL-2.0",
+  "topics": [
+    "monitoring",
+    "ci-cd"
+  ],
+  "framework": "Unity",
+  "stars_count": 17,
+  "forks_count": 1,
+  "watchers_count": 2,
+  "contributors_count": 7,
+  "open_issues_count": 5,
+  "closed_issues_count": 12,
+  "created_date": "2023-06-02",
+  "updated_date": "2025-07-19",
+  "last_commit_date": "2025-08-01",
+  "first_release_date": "2024-04-01",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.8,
+  "search_tags": "thoughapi C# monitoring ci-cd Python Rust",
+  "category": "Machine Learning",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.941234",
+  "content_hash": "hash_48_8451"
+}

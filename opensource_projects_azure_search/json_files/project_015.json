@@ -1,0 +1,41 @@
+{
+  "id": "project_015",
+  "name": "flexible-server",
+  "full_name": "ahancock/flexible-server",
+  "description": "Including could gun series personal service data. Capital explain thing machine ahead picture son. Financial add impact different.",
+  "url": "https://github.com/ahancock/flexible-server",
+  "homepage": null,
+  "language": "C++",
+  "languages": [
+    "C++",
+    "Dart",
+    "CSS"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "library",
+    "aws"
+  ],
+  "framework": null,
+  "stars_count": 4,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2023-11-17",
+  "updated_date": "2025-07-06",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2024-07-24",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 43.6,
+  "search_tags": "flexible-server C++ library aws Dart CSS",
+  "category": "Database Tools",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.913315",
+  "content_hash": "hash_15_2964"
+}

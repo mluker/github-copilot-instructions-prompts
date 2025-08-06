@@ -1,0 +1,42 @@
+{
+  "id": "project_011",
+  "name": "fast-builder",
+  "full_name": "tamirodriguez/fast-builder",
+  "description": "Quality when however resource away real physical. Recent feeling range south.\nGirl into have. Positive actually information majority item gun through. Religious itself safe whole establish space Mrs.",
+  "url": "https://github.com/tamirodriguez/fast-builder",
+  "homepage": null,
+  "language": "C++",
+  "languages": [
+    "C++",
+    "Java",
+    "JavaScript"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "serverless",
+    "database",
+    "performance"
+  ],
+  "framework": null,
+  "stars_count": 15,
+  "forks_count": 2,
+  "watchers_count": 4,
+  "contributors_count": 7,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2020-09-19",
+  "updated_date": "2025-07-17",
+  "last_commit_date": "2025-08-01",
+  "first_release_date": "2021-08-10",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.4,
+  "search_tags": "fast-builder C++ serverless database performance Java JavaScript",
+  "category": "Machine Learning",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.897029",
+  "content_hash": "hash_11_2612"
+}

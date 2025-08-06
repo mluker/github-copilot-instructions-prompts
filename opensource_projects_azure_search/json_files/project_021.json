@@ -1,0 +1,43 @@
+{
+  "id": "project_021",
+  "name": "efficient-library",
+  "full_name": "stephen00/efficient-library",
+  "description": "Rather make travel available ball part. Call person one Republican. Yes most law painting between reduce.",
+  "url": "https://github.com/stephen00/efficient-library",
+  "homepage": "https://www.gomez-ortega.biz/",
+  "language": "C++",
+  "languages": [
+    "C++",
+    "Swift",
+    "TypeScript"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "performance",
+    "ai",
+    "database",
+    "data-science"
+  ],
+  "framework": null,
+  "stars_count": 109,
+  "forks_count": 28,
+  "watchers_count": 29,
+  "contributors_count": 6,
+  "open_issues_count": 34,
+  "closed_issues_count": 59,
+  "created_date": "2025-08-01",
+  "updated_date": "2025-08-01",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2025-08-05",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 54.3,
+  "search_tags": "efficient-library C++ performance ai database data-science Swift TypeScript",
+  "category": "Cloud Native",
+  "maturity_level": "stable",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.918133",
+  "content_hash": "hash_21_5065"
+}

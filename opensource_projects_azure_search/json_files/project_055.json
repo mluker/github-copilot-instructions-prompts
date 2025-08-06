@@ -1,0 +1,40 @@
+{
+  "id": "project_055",
+  "name": "lightweight-generator",
+  "full_name": "jose56/lightweight-generator",
+  "description": "Laugh do want carry show board. Clearly letter image movie. Later leg system bed space.\nAmerican structure foreign before eat green message quality. Star community weight take new.",
+  "url": "https://github.com/jose56/lightweight-generator",
+  "homepage": null,
+  "language": "C#",
+  "languages": [
+    "C#"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "ci-cd",
+    "cloud",
+    "gcp"
+  ],
+  "framework": "Xamarin",
+  "stars_count": 6,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 6,
+  "open_issues_count": 3,
+  "closed_issues_count": 8,
+  "created_date": "2024-02-04",
+  "updated_date": "2025-06-17",
+  "last_commit_date": "2025-07-21",
+  "first_release_date": "2024-09-05",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 40.8,
+  "search_tags": "lightweight-generator C# ci-cd cloud gcp",
+  "category": "Cloud Native",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.946240",
+  "content_hash": "hash_55_2612"
+}

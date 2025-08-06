@@ -1,0 +1,41 @@
+{
+  "id": "project_094",
+  "name": "flexible-platform",
+  "full_name": "ginamoore/flexible-platform",
+  "description": "Science drug per challenge. Add really born late age.\nDeep national seek nature performance yeah reason. Heavy town money.\nArt customer recent even. Pressure across home even system process ten.",
+  "url": "https://github.com/ginamoore/flexible-platform",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript"
+  ],
+  "license": "ISC",
+  "topics": [
+    "web",
+    "optimization",
+    "blockchain",
+    "gcp"
+  ],
+  "framework": "Angular",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2024-03-26",
+  "updated_date": "2025-08-02",
+  "last_commit_date": "2025-08-02",
+  "first_release_date": "2024-12-16",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 46.0,
+  "search_tags": "flexible-platform JavaScript web optimization blockchain gcp",
+  "category": "Cloud Native",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.022000",
+  "content_hash": "hash_94_3730"
+}

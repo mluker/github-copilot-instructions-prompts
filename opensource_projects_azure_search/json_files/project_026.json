@@ -1,0 +1,42 @@
+{
+  "id": "project_026",
+  "name": "smart-tool",
+  "full_name": "tanderson/smart-tool",
+  "description": "Heavy social spend prove stock school rate. Behavior provide meet adult final week game.\nDifficult case baby such big. Strong this also from short capital heavy. Congress realize person total.",
+  "url": "https://github.com/tanderson/smart-tool",
+  "homepage": null,
+  "language": "Python",
+  "languages": [
+    "Python",
+    "Rust",
+    "C#"
+  ],
+  "license": "ISC",
+  "topics": [
+    "monitoring",
+    "web",
+    "database"
+  ],
+  "framework": "Flask",
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 3,
+  "open_issues_count": 0,
+  "closed_issues_count": 0,
+  "created_date": "2025-04-12",
+  "updated_date": "2025-08-05",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2025-08-05",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 75.1,
+  "activity_score": 45.8,
+  "search_tags": "smart-tool Python monitoring web database Rust C#",
+  "category": "DevOps Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.922728",
+  "content_hash": "hash_26_8461"
+}

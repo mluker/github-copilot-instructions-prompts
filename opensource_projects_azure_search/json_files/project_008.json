@@ -1,0 +1,42 @@
+{
+  "id": "project_008",
+  "name": "simple-platform",
+  "full_name": "richard04/simple-platform",
+  "description": "Parent focus kid put memory soldier where save. Exist professional people behavior. Pull different current agency each.",
+  "url": "https://github.com/richard04/simple-platform",
+  "homepage": null,
+  "language": "TypeScript",
+  "languages": [
+    "TypeScript",
+    "Dart"
+  ],
+  "license": "Unlicense",
+  "topics": [
+    "devops",
+    "database",
+    "library",
+    "kubernetes"
+  ],
+  "framework": "Angular",
+  "stars_count": 7,
+  "forks_count": 0,
+  "watchers_count": 2,
+  "contributors_count": 3,
+  "open_issues_count": 1,
+  "closed_issues_count": 12,
+  "created_date": "2022-01-09",
+  "updated_date": "2025-07-24",
+  "last_commit_date": "2025-08-04",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.4,
+  "search_tags": "simple-platform TypeScript devops database library kubernetes Dart",
+  "category": "Data Processing",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.882413",
+  "content_hash": "hash_8_3103"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "project_017",
+  "name": "simple-framework",
+  "full_name": "cindy61/simple-framework",
+  "description": "West phone thought maintain must pay. Piece TV young section its. Set region beyond coach.\nAnimal someone fall. Issue each include radio conference company.",
+  "url": "https://github.com/cindy61/simple-framework",
+  "homepage": null,
+  "language": "C#",
+  "languages": [
+    "C#",
+    "Swift"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "mobile",
+    "tool",
+    "gcp"
+  ],
+  "framework": ".NET Core",
+  "stars_count": 72,
+  "forks_count": 10,
+  "watchers_count": 25,
+  "contributors_count": 8,
+  "open_issues_count": 30,
+  "closed_issues_count": 51,
+  "created_date": "2024-11-06",
+  "updated_date": "2025-07-22",
+  "last_commit_date": "2025-06-18",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 22.5,
+  "search_tags": "simple-framework C# mobile tool gcp Swift",
+  "category": "API Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.915074",
+  "content_hash": "hash_17_3584"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "project_043",
+  "name": "wayjs",
+  "full_name": "whitemelissa/wayjs",
+  "description": "Certain star start up federal nor note support. Forward sense cause write right may window.\nJoin stuff future shoulder.",
+  "url": "https://github.com/whitemelissa/wayjs",
+  "homepage": null,
+  "language": "TypeScript",
+  "languages": [
+    "TypeScript",
+    "CSS"
+  ],
+  "license": "ISC",
+  "topics": [
+    "performance",
+    "graphics",
+    "azure"
+  ],
+  "framework": "Next.js",
+  "stars_count": 186,
+  "forks_count": 48,
+  "watchers_count": 83,
+  "contributors_count": 10,
+  "open_issues_count": 37,
+  "closed_issues_count": 176,
+  "created_date": "2020-09-01",
+  "updated_date": "2025-07-30",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2021-04-18",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 88.0,
+  "activity_score": 60.2,
+  "search_tags": "wayjs TypeScript performance graphics azure CSS",
+  "category": "Machine Learning",
+  "maturity_level": "beta",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.936700",
+  "content_hash": "hash_43_2625"
+}

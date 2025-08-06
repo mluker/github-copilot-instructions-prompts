@@ -1,0 +1,43 @@
+{
+  "id": "project_096",
+  "name": "elegant-framework",
+  "full_name": "lonniehobbs/elegant-framework",
+  "description": "Which field seat start PM scene. Single blood continue several. Pay paper partner others discuss ago bag sister.",
+  "url": "https://github.com/lonniehobbs/elegant-framework",
+  "homepage": null,
+  "language": "Go",
+  "languages": [
+    "Go",
+    "CSS"
+  ],
+  "license": "MIT",
+  "topics": [
+    "security",
+    "async",
+    "tool",
+    "kubernetes",
+    "machine-learning"
+  ],
+  "framework": "Echo",
+  "stars_count": 12,
+  "forks_count": 2,
+  "watchers_count": 2,
+  "contributors_count": 4,
+  "open_issues_count": 0,
+  "closed_issues_count": 8,
+  "created_date": "2024-03-23",
+  "updated_date": "2025-08-05",
+  "last_commit_date": "2025-07-10",
+  "first_release_date": "2024-07-22",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 34.1,
+  "search_tags": "elegant-framework Go security async tool kubernetes machine-learning CSS",
+  "category": "Security Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:09.024131",
+  "content_hash": "hash_96_9176"
+}

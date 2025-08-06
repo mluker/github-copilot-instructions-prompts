@@ -1,0 +1,40 @@
+{
+  "id": "project_031",
+  "name": "powerful-client-java",
+  "full_name": "heather73/powerful-client-java",
+  "description": "Common require young specific whose worry property. Nearly face feel church.\nMeeting building cut catch so ago. Occur level work candidate this assume huge.",
+  "url": "https://github.com/heather73/powerful-client-java",
+  "homepage": "http://jacobson.net/",
+  "language": "Java",
+  "languages": [
+    "Java",
+    "Shell"
+  ],
+  "license": "MPL-2.0",
+  "topics": [
+    "authorization",
+    "data-science"
+  ],
+  "framework": "Gradle",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 1,
+  "created_date": "2021-03-15",
+  "updated_date": "2025-07-14",
+  "last_commit_date": "2025-08-02",
+  "first_release_date": "2021-08-06",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 46.0,
+  "search_tags": "powerful-client-java Java authorization data-science Shell",
+  "category": "Web Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.927053",
+  "content_hash": "hash_31_2375"
+}

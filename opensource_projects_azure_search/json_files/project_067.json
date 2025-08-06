@@ -1,0 +1,41 @@
+{
+  "id": "project_067",
+  "name": "smart-library",
+  "full_name": "robert18/smart-library",
+  "description": "Industry together memory pay. Box blood cup current enjoy. Win group important civil nature travel read. Former able public trade structure protect chance.",
+  "url": "https://github.com/robert18/smart-library",
+  "homepage": null,
+  "language": "Java",
+  "languages": [
+    "Java",
+    "R",
+    "Python"
+  ],
+  "license": "MIT",
+  "topics": [
+    "aws",
+    "mobile"
+  ],
+  "framework": "Gradle",
+  "stars_count": 27,
+  "forks_count": 3,
+  "watchers_count": 8,
+  "contributors_count": 6,
+  "open_issues_count": 1,
+  "closed_issues_count": 5,
+  "created_date": "2021-12-09",
+  "updated_date": "2025-08-02",
+  "last_commit_date": "2025-07-29",
+  "first_release_date": "2022-07-25",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 52.0,
+  "search_tags": "smart-library Java aws mobile R Python",
+  "category": "Machine Learning",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.959052",
+  "content_hash": "hash_67_8847"
+}

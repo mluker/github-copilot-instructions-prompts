@@ -1,0 +1,42 @@
+{
+  "id": "project_032",
+  "name": "fast-client-c#",
+  "full_name": "david49/fast-client-c#",
+  "description": "Option oil commercial person. Front under American tell ball we side enough. Short indicate police marriage phone.\nLot source rate father authority. Citizen indeed less future.",
+  "url": "https://github.com/david49/fast-client-c#",
+  "homepage": "https://estes.com/",
+  "language": "C#",
+  "languages": [
+    "C#",
+    "PHP"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "ci-cd",
+    "game-development",
+    "microservices",
+    "monitoring"
+  ],
+  "framework": "Unity",
+  "stars_count": 23,
+  "forks_count": 1,
+  "watchers_count": 4,
+  "contributors_count": 5,
+  "open_issues_count": 8,
+  "closed_issues_count": 22,
+  "created_date": "2023-04-05",
+  "updated_date": "2025-07-23",
+  "last_commit_date": "2025-06-02",
+  "first_release_date": "2023-11-23",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 17.0,
+  "search_tags": "fast-client-c# C# ci-cd game-development microservices monitoring PHP",
+  "category": "CLI Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.927910",
+  "content_hash": "hash_32_1317"
+}

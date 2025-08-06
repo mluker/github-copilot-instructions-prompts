@@ -1,0 +1,39 @@
+{
+  "id": "project_052",
+  "name": "powerful-platform",
+  "full_name": "imiller/powerful-platform",
+  "description": "Base bad TV window choice. Hospital plant strong race at recognize.\nEach under break partner. Finally score scientist budget.\nClearly well mission. Cold camera sit environmental though.",
+  "url": "https://github.com/imiller/powerful-platform",
+  "homepage": null,
+  "language": "PHP",
+  "languages": [
+    "PHP",
+    "Dart"
+  ],
+  "license": "AGPL-3.0",
+  "topics": [
+    "api"
+  ],
+  "framework": "Yii",
+  "stars_count": 256,
+  "forks_count": 61,
+  "watchers_count": 68,
+  "contributors_count": 10,
+  "open_issues_count": 65,
+  "closed_issues_count": 319,
+  "created_date": "2023-04-12",
+  "updated_date": "2025-08-02",
+  "last_commit_date": "2025-07-30",
+  "first_release_date": "2023-08-16",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 60.5,
+  "search_tags": "powerful-platform PHP api Dart",
+  "category": "CLI Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "emerging",
+  "indexed_date": "2025-08-05T12:52:08.944620",
+  "content_hash": "hash_52_6654"
+}

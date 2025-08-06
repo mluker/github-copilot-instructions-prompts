@@ -1,0 +1,42 @@
+{
+  "id": "project_014",
+  "name": "recentlyapi",
+  "full_name": "ronaldstephens/recentlyapi",
+  "description": "Author coach film see. Tv keep light fight I evening music.\nOur threat same page. Before while structure. Onto again share start office several compare.",
+  "url": "https://github.com/ronaldstephens/recentlyapi",
+  "homepage": null,
+  "language": "Java",
+  "languages": [
+    "Java",
+    "R",
+    "CSS",
+    "C#"
+  ],
+  "license": "MIT",
+  "topics": [
+    "docker",
+    "cloud"
+  ],
+  "framework": "Gradle",
+  "stars_count": 3,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 3,
+  "open_issues_count": 0,
+  "closed_issues_count": 0,
+  "created_date": "2023-10-30",
+  "updated_date": "2025-07-14",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": "2024-06-29",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 42.0,
+  "search_tags": "recentlyapi Java docker cloud R CSS C#",
+  "category": "Testing Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.912241",
+  "content_hash": "hash_14_1936"
+}

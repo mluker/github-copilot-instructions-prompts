@@ -1,0 +1,40 @@
+{
+  "id": "project_081",
+  "name": "lightweight-generator",
+  "full_name": "martintamara/lightweight-generator",
+  "description": "Likely outside because enjoy. Bag also his worker pass minute.\nWatch star policy keep. Sure us million crime six. Middle discuss college already dream a church. Sister good house only military.",
+  "url": "https://github.com/martintamara/lightweight-generator",
+  "homepage": null,
+  "language": "Rust",
+  "languages": [
+    "Rust"
+  ],
+  "license": "LGPL-2.1",
+  "topics": [
+    "monitoring",
+    "tool",
+    "mobile"
+  ],
+  "framework": "Diesel",
+  "stars_count": 18,
+  "forks_count": 1,
+  "watchers_count": 7,
+  "contributors_count": 5,
+  "open_issues_count": 11,
+  "closed_issues_count": 20,
+  "created_date": "2020-08-13",
+  "updated_date": "2025-06-17",
+  "last_commit_date": "2025-07-13",
+  "first_release_date": "2020-12-23",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 0,
+  "activity_score": 41.8,
+  "search_tags": "lightweight-generator Rust monitoring tool mobile",
+  "category": "DevOps Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.978289",
+  "content_hash": "hash_81_3317"
+}

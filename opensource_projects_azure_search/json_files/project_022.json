@@ -1,0 +1,40 @@
+{
+  "id": "project_022",
+  "name": "smart-library",
+  "full_name": "schmittcaroline/smart-library",
+  "description": "Defense prevent difference board suddenly happen several. Difficult investment night should perform push news. Upon stop environment Congress reflect finally fund accept.",
+  "url": "https://github.com/schmittcaroline/smart-library",
+  "homepage": "http://www.miller.org/",
+  "language": "Python",
+  "languages": [
+    "Python",
+    "R"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "serverless",
+    "graphics"
+  ],
+  "framework": "Flask",
+  "stars_count": 6,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 4,
+  "open_issues_count": 2,
+  "closed_issues_count": 7,
+  "created_date": "2022-05-08",
+  "updated_date": "2025-06-15",
+  "last_commit_date": "2025-07-16",
+  "first_release_date": "2023-01-21",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 36.8,
+  "search_tags": "smart-library Python serverless graphics R",
+  "category": "Database Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.919308",
+  "content_hash": "hash_22_6378"
+}

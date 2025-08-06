@@ -1,0 +1,42 @@
+{
+  "id": "project_074",
+  "name": "secure-server-java",
+  "full_name": "susanfleming/secure-server-java",
+  "description": "Either rich agency might side method. Knowledge analysis together court message way cold.",
+  "url": "https://github.com/susanfleming/secure-server-java",
+  "homepage": "http://www.grant-andrews.com/",
+  "language": "Java",
+  "languages": [
+    "Java",
+    "Go"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "automation",
+    "cloud",
+    "azure",
+    "devops"
+  ],
+  "framework": "Spring Boot",
+  "stars_count": 2,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 3,
+  "created_date": "2022-03-13",
+  "updated_date": "2025-07-25",
+  "last_commit_date": "2025-07-22",
+  "first_release_date": "2022-12-07",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 38.6,
+  "search_tags": "secure-server-java Java automation cloud azure devops Go",
+  "category": "Data Processing",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.972770",
+  "content_hash": "hash_74_5186"
+}

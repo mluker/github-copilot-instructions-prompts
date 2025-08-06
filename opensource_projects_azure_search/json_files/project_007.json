@@ -1,0 +1,42 @@
+{
+  "id": "project_007",
+  "name": "agentlib",
+  "full_name": "raymondramirez/agentlib",
+  "description": "Political hundred wonder movie voice boy. Condition while enter board its.\nPaper memory history office effort remember. Mind southern rather. Hair attorney professional form finish.",
+  "url": "https://github.com/raymondramirez/agentlib",
+  "homepage": null,
+  "language": "PHP",
+  "languages": [
+    "PHP",
+    "Dart"
+  ],
+  "license": "Unlicense",
+  "topics": [
+    "blockchain",
+    "aws",
+    "mobile",
+    "devops"
+  ],
+  "framework": "Symfony",
+  "stars_count": 25,
+  "forks_count": 4,
+  "watchers_count": 8,
+  "contributors_count": 7,
+  "open_issues_count": 1,
+  "closed_issues_count": 5,
+  "created_date": "2020-12-08",
+  "updated_date": "2025-07-28",
+  "last_commit_date": "2025-07-12",
+  "first_release_date": null,
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 100,
+  "activity_score": 42.1,
+  "search_tags": "agentlib PHP blockchain aws mobile devops Dart",
+  "category": "Web Framework",
+  "maturity_level": "alpha",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.880564",
+  "content_hash": "hash_7_6310"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "project_013",
+  "name": "robust-framework",
+  "full_name": "danamullins/robust-framework",
+  "description": "Expect long future whole education technology box.\nMan officer rather charge specific we. Yes budget share paper.",
+  "url": "https://github.com/danamullins/robust-framework",
+  "homepage": "https://www.hall.org/",
+  "language": "PHP",
+  "languages": [
+    "PHP",
+    "R"
+  ],
+  "license": "MIT",
+  "topics": [
+    "database"
+  ],
+  "framework": "Laravel",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 2,
+  "open_issues_count": 0,
+  "closed_issues_count": 0,
+  "created_date": "2021-02-07",
+  "updated_date": "2025-07-19",
+  "last_commit_date": "2025-07-20",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 86.8,
+  "activity_score": 39.6,
+  "search_tags": "robust-framework PHP database R",
+  "category": "Database Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.911089",
+  "content_hash": "hash_13_5345"
+}

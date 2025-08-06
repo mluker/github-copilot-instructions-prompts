@@ -1,0 +1,43 @@
+{
+  "id": "project_057",
+  "name": "simple-parser",
+  "full_name": "craigsandoval/simple-parser",
+  "description": "Offer work home very yard. Compare or south recently.\nRegion goal nothing. None could write think. My compare also argue own after long. Truth cut candidate response try such.",
+  "url": "https://github.com/craigsandoval/simple-parser",
+  "homepage": null,
+  "language": "Python",
+  "languages": [
+    "Python",
+    "C++"
+  ],
+  "license": "Unlicense",
+  "topics": [
+    "database",
+    "cloud",
+    "ai",
+    "graphics",
+    "microservices"
+  ],
+  "framework": "PyTorch",
+  "stars_count": 21,
+  "forks_count": 1,
+  "watchers_count": 7,
+  "contributors_count": 4,
+  "open_issues_count": 14,
+  "closed_issues_count": 23,
+  "created_date": "2021-12-03",
+  "updated_date": "2025-07-18",
+  "last_commit_date": "2025-07-05",
+  "first_release_date": "2022-01-03",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 31.9,
+  "search_tags": "simple-parser Python database cloud ai graphics microservices C++",
+  "category": "Security Tools",
+  "maturity_level": "beta",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.947528",
+  "content_hash": "hash_57_2210"
+}

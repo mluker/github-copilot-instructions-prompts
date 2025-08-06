@@ -1,0 +1,43 @@
+{
+  "id": "project_069",
+  "name": "powerful-library",
+  "full_name": "timothyfreeman/powerful-library",
+  "description": "As pressure actually. Should office north within prove full mission. Believe product eat generation put his stuff next.",
+  "url": "https://github.com/timothyfreeman/powerful-library",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Go",
+    "Python"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "docker",
+    "game-development",
+    "optimization",
+    "async"
+  ],
+  "framework": "Node.js",
+  "stars_count": 17,
+  "forks_count": 1,
+  "watchers_count": 2,
+  "contributors_count": 7,
+  "open_issues_count": 1,
+  "closed_issues_count": 7,
+  "created_date": "2025-01-10",
+  "updated_date": "2025-08-03",
+  "last_commit_date": "2025-08-04",
+  "first_release_date": "2025-08-05",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 55.2,
+  "search_tags": "powerful-library JavaScript docker game-development optimization async Go Python",
+  "category": "Testing Framework",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.960584",
+  "content_hash": "hash_69_7992"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "project_049",
+  "name": "modern-platform-javascript",
+  "full_name": "kburns/modern-platform-javascript",
+  "description": "Heart away some shoulder idea seek. Lawyer maintain old than suggest behavior. Play recently sure somebody huge why station. Environmental stock front official not magazine gas.\nBetween six least.",
+  "url": "https://github.com/kburns/modern-platform-javascript",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript",
+    "Scala"
+  ],
+  "license": "ISC",
+  "topics": [
+    "aws",
+    "api"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 53,
+  "forks_count": 5,
+  "watchers_count": 16,
+  "contributors_count": 12,
+  "open_issues_count": 27,
+  "closed_issues_count": 52,
+  "created_date": "2023-10-02",
+  "updated_date": "2025-07-04",
+  "last_commit_date": "2025-07-19",
+  "first_release_date": "2024-08-11",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 46.3,
+  "search_tags": "modern-platform-javascript JavaScript aws api Scala",
+  "category": "CLI Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.942207",
+  "content_hash": "hash_49_8242"
+}

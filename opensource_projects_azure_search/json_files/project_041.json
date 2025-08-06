@@ -1,0 +1,42 @@
+{
+  "id": "project_041",
+  "name": "modern-framework",
+  "full_name": "kyle58/modern-framework",
+  "description": "Sort reveal seven floor. Have including none determine certainly. Network once result far cultural.\nNow early nearly want front shake. Whom politics make collection some college result.",
+  "url": "https://github.com/kyle58/modern-framework",
+  "homepage": "http://www.hernandez.com/",
+  "language": "Python",
+  "languages": [
+    "Python",
+    "C",
+    "R"
+  ],
+  "license": "MIT",
+  "topics": [
+    "framework",
+    "library",
+    "docker"
+  ],
+  "framework": "PyTorch",
+  "stars_count": 4,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 4,
+  "open_issues_count": 0,
+  "closed_issues_count": 2,
+  "created_date": "2025-01-02",
+  "updated_date": "2025-07-29",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2025-08-05",
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 43.6,
+  "search_tags": "modern-framework Python framework library docker C R",
+  "category": "API Tools",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.935151",
+  "content_hash": "hash_41_8690"
+}

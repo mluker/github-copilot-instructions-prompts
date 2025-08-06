@@ -1,0 +1,41 @@
+{
+  "id": "project_042",
+  "name": "lightweight-tool",
+  "full_name": "bhopkins/lightweight-tool",
+  "description": "Activity morning ever within admit spend. South travel blood benefit chance court. Education great some bad where learn during.\nRange summer president teach service. If help live PM.",
+  "url": "https://github.com/bhopkins/lightweight-tool",
+  "homepage": "https://glass.com/",
+  "language": "Ruby",
+  "languages": [
+    "Ruby",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "license": "GPL-3.0",
+  "topics": [
+    "serverless",
+    "desktop"
+  ],
+  "framework": null,
+  "stars_count": 8,
+  "forks_count": 1,
+  "watchers_count": 2,
+  "contributors_count": 6,
+  "open_issues_count": 1,
+  "closed_issues_count": 8,
+  "created_date": "2020-08-16",
+  "updated_date": "2025-06-29",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": "2021-03-13",
+  "has_wiki": false,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 44.3,
+  "activity_score": 48.8,
+  "search_tags": "lightweight-tool Ruby serverless desktop TypeScript JavaScript",
+  "category": "API Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.936009",
+  "content_hash": "hash_42_2395"
+}

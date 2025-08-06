@@ -1,0 +1,43 @@
+{
+  "id": "project_040",
+  "name": "simple-builder-go",
+  "full_name": "oallen/simple-builder-go",
+  "description": "Trip none whose newspaper care drug data. Two suggest begin right.\nEnvironmental purpose owner. Could seven right next.",
+  "url": "https://github.com/oallen/simple-builder-go",
+  "homepage": null,
+  "language": "Go",
+  "languages": [
+    "Go"
+  ],
+  "license": "BSD-3-Clause",
+  "topics": [
+    "gcp",
+    "blockchain",
+    "cryptocurrency",
+    "game-development",
+    "serverless",
+    "testing"
+  ],
+  "framework": "Fiber",
+  "stars_count": 10,
+  "forks_count": 2,
+  "watchers_count": 3,
+  "contributors_count": 5,
+  "open_issues_count": 0,
+  "closed_issues_count": 8,
+  "created_date": "2022-02-04",
+  "updated_date": "2025-07-24",
+  "last_commit_date": "2025-07-12",
+  "first_release_date": "2022-03-07",
+  "has_wiki": false,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 35.1,
+  "search_tags": "simple-builder-go Go gcp blockchain cryptocurrency game-development serverless testing",
+  "category": "API Tools",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.934064",
+  "content_hash": "hash_40_4727"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "project_029",
+  "name": "secure-engine",
+  "full_name": "zwelch/secure-engine",
+  "description": "Fall analysis current. Firm financial huge. List already positive experience television answer pretty.\nSon join hundred keep. Fund cost reality happen something entire.",
+  "url": "https://github.com/zwelch/secure-engine",
+  "homepage": null,
+  "language": "JavaScript",
+  "languages": [
+    "JavaScript"
+  ],
+  "license": "Apache-2.0",
+  "topics": [
+    "database",
+    "testing",
+    "monitoring"
+  ],
+  "framework": "Vue.js",
+  "stars_count": 1,
+  "forks_count": 0,
+  "watchers_count": 1,
+  "contributors_count": 1,
+  "open_issues_count": 0,
+  "closed_issues_count": 0,
+  "created_date": "2021-04-07",
+  "updated_date": "2025-07-23",
+  "last_commit_date": "2025-07-26",
+  "first_release_date": "2021-12-24",
+  "has_wiki": true,
+  "has_documentation": true,
+  "has_ci_cd": true,
+  "test_coverage_percentage": 62.2,
+  "activity_score": 44.4,
+  "search_tags": "secure-engine JavaScript database testing monitoring",
+  "category": "Cloud Native",
+  "maturity_level": "mature",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.925096",
+  "content_hash": "hash_29_7678"
+}

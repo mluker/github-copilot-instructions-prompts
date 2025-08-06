@@ -1,0 +1,42 @@
+{
+  "id": "project_061",
+  "name": "productapi",
+  "full_name": "maryscott/productapi",
+  "description": "Hold however for everybody. True actually red onto site both change.",
+  "url": "https://github.com/maryscott/productapi",
+  "homepage": null,
+  "language": "C",
+  "languages": [
+    "C"
+  ],
+  "license": "MPL-2.0",
+  "topics": [
+    "automation",
+    "monitoring",
+    "desktop",
+    "microservices",
+    "tool"
+  ],
+  "framework": null,
+  "stars_count": 15,
+  "forks_count": 2,
+  "watchers_count": 2,
+  "contributors_count": 3,
+  "open_issues_count": 0,
+  "closed_issues_count": 4,
+  "created_date": "2025-02-22",
+  "updated_date": "2025-07-18",
+  "last_commit_date": "2025-07-25",
+  "first_release_date": null,
+  "has_wiki": true,
+  "has_documentation": false,
+  "has_ci_cd": false,
+  "test_coverage_percentage": 0,
+  "activity_score": 46.8,
+  "search_tags": "productapi C automation monitoring desktop microservices tool",
+  "category": "UI Library",
+  "maturity_level": "stable",
+  "popularity_tier": "niche",
+  "indexed_date": "2025-08-05T12:52:08.954408",
+  "content_hash": "hash_61_2479"
+}
