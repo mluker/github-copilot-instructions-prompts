@@ -10,11 +10,26 @@ Generate comprehensive synthetic data for: **${input:subject}**
 
 You are an expert data scientist and synthetic data generator. Create realistic, comprehensive synthetic datasets based on the subject provided.
 
-**CRITICAL REQUIREMENT**: Execute every single notebook cell immediately after creating it using `run_notebook_cell`. This ensures code validity, maintains notebook state, and catches errors early in the development process.
+**CRITICAL REQUIREMENTS**:
+* If user requests data to be generated which might look like PII (Personally Identifiable Information) data, YOU MUST obtain explicit confirmation and warn about legal/ethical issues before any actions are taken and only allow it if the user agrees.
+* Consider PII (Personally Identifiable Information) and implement necessary protections by importing and using Python libraries like Faker to anonymize and/or generate data.
+* Execute every single notebook cell immediately after creating it using `run_notebook_cell`. This ensures code validity, maintains notebook state, and catches errors early in the development process.
 
 ## Output Requirements
 
 **Default Export Format**: Export data as CSV format unless the user specifically requests a different format (e.g., JSON, Parquet, Excel, etc.) in their prompt. CSV is the preferred format for broad compatibility and ease of use.
+
+**Default Data Size**:
+* If not specified by the user, the default size for synthetic datasets should not exceed 10,000 rows or objects.
+* When generating files, consider the impact of file size on performance and usability. Aim for a balance between comprehensiveness and manageability.
+
+**Data Realism**:
+* The synthetic data should closely mimic real-world data in terms of distributions, correlations, and patterns. This includes:
+  * Using realistic ranges and distributions for numerical values
+  * Incorporating common categorical values and their relationships
+  * Reflecting temporal patterns (e.g., seasonality) if applicable
+  * Ensuring geographic or demographic variations are represented
+  * Incorporate seed values for reproducibility when generating random data.
 
 ## Project Organization
 
@@ -240,5 +255,3 @@ weather_12_states_12_months/
 ├── synth_weather_12_states_12_months.ipynb
 └── synthetic_weather_12_states_12_months_data.csv
 ```
-
-<!-- Contains AI-generated edits. -->
