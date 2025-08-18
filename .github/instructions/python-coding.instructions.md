@@ -2,10 +2,6 @@
 applyTo: "**/*.py"
 ---
 
-# Project coding standards for Python
-
-Apply the [general coding guidelines](./general-coding.instructions.md) to all code.
-
 ## Python Guidelines
 
 - Use snake_case for variable and function names

@@ -29,7 +29,12 @@ You are an expert data scientist and synthetic data generator. Create realistic,
   * Incorporating common categorical values and their relationships
   * Reflecting temporal patterns (e.g., seasonality) if applicable
   * Ensuring geographic or demographic variations are represented
-  * Incorporate seed values for reproducibility when generating random data.
+  * Incorporate seed values for reproducibility when generating random data and make sure to choose a random seed value.
+
+**Visualization Display Requirements**:
+* All visualization cells must render charts inline in the notebook output. Always call `plt.show()` in each visualization cell.
+* Saving charts to files is optional and should be in addition to inline display. If you also save, call `plt.savefig(...)` and still call `plt.show()` (do not rely solely on file writes).
+* Do not call `plt.close()` before `plt.show()` in visualization cells, as that suppresses inline rendering. Closing figures after showing is acceptable.
 
 ## Project Organization
 
@@ -64,7 +69,7 @@ Create a well-structured notebook with the following cells:
 6. **Parameter Configuration** (Markdown): Explain parameters for data generation
 7. **Data Generation Execution** (Code): Execute the data generation
 8. **Data Export** (Code): Export data in proper format with proper filename in project folder
-9. **Multiple Visualization Cells** (Code): Charts using matplotlib and seaborn. Include map visualizations if data contains geographic information
+9. **Multiple Visualization Cells** (Code): Charts using matplotlib and seaborn. Include map visualizations if data contains geographic information. These cells MUST display plots inline using `plt.show()`; saving with `plt.savefig(...)` is optional and must not replace inline display.
 10. **Summary Statistics** (Code): Comprehensive data analysis
 11. **Validation & Quality Checks** (Code): Verify data realism
 
@@ -149,6 +154,7 @@ start_time = datetime.combine(day, datetime.min.time()) + timedelta(hours=hour, 
 2. **MANDATORY**: Use `run_notebook_cell` immediately after creating each cell
 3. Ensure all code executes without errors before proceeding
 4. Export data only once in the designated export cell
+5. Ensure all visualization cells end with `plt.show()` so figures render inline in the notebook output.
 
 **Validation**
 - Run all cells to ensure end-to-end functionality
@@ -210,9 +216,19 @@ filename = f'synthetic_{subject_clean}_data.csv'
 data.to_csv(filename, index=False)
 print(f"Data saved to: {filename}")
 
-# Cell 6-9: Multiple Visualization Cells
-# Create charts using matplotlib and seaborn
-# Include map visualizations if data contains geographic information
+# Cell 6-9: Multiple Visualization Cells (always render inline)
+# Create charts using matplotlib and seaborn. Always call plt.show().
+# Optionally also save figures to files in the project folder.
+plt.figure(figsize=(6, 4))
+plt.plot(data.index[:100], np.random.randn(100).cumsum(), label="sample")
+plt.title("Sample Visualization")
+plt.xlabel("Index")
+plt.ylabel("Value")
+plt.legend()
+plt.tight_layout()
+# Optional file save (in addition to inline display)
+# plt.savefig(os.path.join(project_folder, "sample_plot.png"))
+plt.show()
 
 # Cell 10: Summary and Validation
 print("=== DATA SUMMARY ===")
@@ -226,7 +242,7 @@ print(f"\\nGeneration timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 2. **Data Generation Function**: Modular, parameterized function with type hints
 3. **Realistic Data**: Values that domain experts would find believable
 4. **CSV Export**: Clean data file with descriptive filename
-5. **Multiple Visualizations**: Charts using matplotlib and seaborn. Include map visualizations if data contains geographic information.
+5. **Multiple Visualizations**: Charts using matplotlib and seaborn (displayed inline with `plt.show()`). Include map visualizations if data contains geographic information.
 6. **Statistical Summary**: Comprehensive descriptive statistics
 7. **Data Validation**: Quality checks to ensure data realism
 8. **Documentation**: Clear markdown explanations for each step

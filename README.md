@@ -11,7 +11,7 @@ This repo is a hacking ground for prompts and instruction files.
 
 ### synth-data
 
-The [synth-data](./.github/prompts/synth-data.prompt.md) prompt is used to generate synthetic data and visualizations based on natural language.
+The [synth-data](./.github/prompts/synth-data.prompt.md) prompt is used to generate synthetic data and visualizations based on natural language. I've had good luck using Sonnet 4.
 
 Example prompts:
 
