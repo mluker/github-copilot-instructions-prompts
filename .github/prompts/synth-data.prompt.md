@@ -1,7 +1,8 @@
 ---
 description: "Generate comprehensive synthetic data for any specified subject with realistic patterns and relationships"
 mode: agent
-tools: ['codebase', 'githubRepo','editFiles','runNotebooks','runCommands','readNotebookCellOutput']
+tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'problems', 'todos']
+
 ---
 
 # Synthetic Data Generator
